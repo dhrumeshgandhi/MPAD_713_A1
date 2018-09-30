@@ -1,0 +1,26 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assignment1"
+  ],
+  "author": "Shubh Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhpatel/MPAD_713_A1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhpatel/MPAD_713_A1/issues"
+  },
+  "homepage": "https://github.com/shubhpatel/MPAD_713_A1#readme"
+}
